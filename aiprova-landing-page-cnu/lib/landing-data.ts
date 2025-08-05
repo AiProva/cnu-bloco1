@@ -1,8 +1,8 @@
 // Manter os dados centralizados melhora a organização e a reutilização.
 
-export const CONCURSO_NOME = "Bloco 6"
+export const CONCURSO_NOME = "Bloco 1"
 export const FLASHCARD_COUNT = "3.500"
-export const FLASHCARD_COUNT_TITLE = "3.556"
+export const FLASHCARD_COUNT_TITLE = "4.496"
 export const HERO_SUBTITLE = "Desenvolvimento Socieconômico. Serão 285 vagas e remunerações iniciais de até R$ 16 mil."
 
 export const materias = [
@@ -12,28 +12,28 @@ export const materias = [
     subsections: [],
   },
   {
-    name: "Eixo Temático 1 – Desenvolvimento, sustentabilidade e inclusão",
-    count: 247,
+    name: "Eixo Temático 1 – Seguridade social",
+    count: 412,
     subsections: [],
   },
   {
-    name: "Eixo Temático 2 – Desenvolvimento produtivo e regional no Brasil",
-    count: 219,
+    name: "Eixo Temático 2 – Saúde",
+    count: 598,
     subsections: [],
   },
   {
-    name: "Eixo Temático 3 – Gestão estratégica e regulação",
-    count: 218,
+    name: "Eixo Temático 3 – Assistência social",
+    count: 377,
     subsections: [],
   },
   {
-    name: "Eixo Temático 4 – Desenvolvimento socioeconômico no Brasil",
-    count: 246,
+    name: "Eixo Temático 4 – Previdência social",
+    count: 476,
     subsections: [],
   },
   {
-    name: "Eixo Temático 5 – Desigualdades e dinâmicas socioeconômicas no Brasil",
-    count: 228,
+    name: "Eixo Temático 5 – Saúde e segurança do trabalho",
+    count: 235,
     subsections: [],
   },
 ]
