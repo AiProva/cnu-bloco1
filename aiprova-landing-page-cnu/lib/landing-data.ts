@@ -3,7 +3,7 @@
 export const CONCURSO_NOME = "Bloco 1"
 export const FLASHCARD_COUNT = "3.500"
 export const FLASHCARD_COUNT_TITLE = "4.496"
-export const HERO_SUBTITLE = "Desenvolvimento Socieconômico. Serão 285 vagas e remunerações iniciais de até R$ 16 mil."
+export const HERO_SUBTITLE = "Seguridade Social: Saúde, Assistência Social e Previdência Social. São vagas, com remunerações de até R$ 13 mil."
 
 export const materias = [
   {
